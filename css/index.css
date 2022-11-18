@@ -237,6 +237,12 @@ hr{
     font-size: 15px;
     color: var(--Dark-grayish-blue);
     margin-bottom:0px ;
+}
+.my-signature{
+    text-align: center;
+    font-family: var(--font);
+    font-weight: var(--weight-2);
+    color: var(--Soft-red);
 }  
 }    
 
